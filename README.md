@@ -1,2 +1,3 @@
 # notebook
-A notebook on everythink I find interesting.
+* Multiple Python environments
+* Package management and virtual environments
